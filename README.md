@@ -1,8 +1,6 @@
 # DUM-E — Dual-Core RTOS Desk Node
 
-A compact ESP32 desk display project built around dual 128×64 OLED screens, custom UI experiments, and Spotify playback telemetry.
-
-> **Project status:** The main firmware has been uploaded to the ESP32 and tested by the author. This repository is being published in stages. The first commit contains project documentation and images; the main firmware and standalone UI checks will be added in subsequent commits.
+A compact ESP32 desk Bot with widgets.
 
 ## Product Gallery
 
