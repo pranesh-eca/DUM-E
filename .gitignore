@@ -1,0 +1,41 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python cache / virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env/
+
+# Local environment and secrets files
+.env
+.env.*
+!.env.example
+secrets.h
+secrets.local.h
+credentials.h
+credentials.local.h
+private_config.h
+arduino_secrets.h
+
+# Arduino / ESP32 build output
+build/
+out/
+.pio/
+*.elf
+*.bin
+*.hex
+*.map
+*.elf.map
+
+# Logs and temporary output
+*.log
+*.tmp
+*.bak
